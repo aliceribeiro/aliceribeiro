@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas em processo de me tornar
 Eu sou apaixonada pela tecnologia, nas facilidades que ela traz ao nosso dia a dia e no impacto positivo causado na vida das pessoas.
 
 ## Meus valores
-🧠 Desenvolvimento atencioso & reponsivo <br/>
+🧠 Desenvolvimento atencioso & responsivo <br/>
 💡 Mentalidade de aprendizagem & curiosidade <br/>
 🙌🏼 Trabalho em equipe & comunicação
 
