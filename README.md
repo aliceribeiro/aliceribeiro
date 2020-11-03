@@ -11,11 +11,13 @@ Eu sou apaixonada pela tecnologia, nas facilidades que ela traz ao nosso dia a d
 
 ## Hobbies
 📖 Ler livros sobre ficção policial, mistério e desenvolvimento pessoal <br/>
+👽 Ouvir podcast sobre ufologia <br/>
 📺 Assistir séries sobre SciFi </br>
 
 ## Me encontre também em:
 - [Linkedin](https://www.linkedin.com/in/aliceribeiroo/) <br/>
-- [Dribbble](https://www.dribbble.com/aliceribeiro)
+- [Dribbble](https://www.dribbble.com/aliceribeiro) <br/>
+- [Instagram](https://www.instagram.com/aalice.ribeiro) <br/>
 
 
 
