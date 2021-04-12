@@ -1,6 +1,6 @@
 # Olá! 👋🏼
 
-Sou estudante de Análise e Desenvolvimento de Sistemas em processo de me tornar uma **desenvolvedora Front-End** com foco em JavaScript, Angular2+ e UI Design.
+Sou estudante de Análise e Desenvolvimento de Sistemas em processo de me tornar uma **desenvolvedora Front-End** com foco em JavaScript, React e UI Design.
 
 Eu sou apaixonada pela tecnologia, nas facilidades que ela traz ao nosso dia a dia e no impacto positivo causado na vida das pessoas.
 
