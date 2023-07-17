@@ -3,7 +3,9 @@
 Sou **desenvolvedora Front-End**, apaixonada por criar experiências interativas e envolventes na web.
 
 ## Projetos Atuais <br/>
-> 📝 [Notas](https://github.com/aliceribeiro/notes) - No momento, estou construindo uma plataforma para gerenciamento de anotações pessoais.
+> 🌱 [Casa Verde](https://github.com/aliceribeiro/casa-verde) - No momento, estou construindo uma página de e-commerce sobre plantas.
+> <br />
+> 📝 [Notas](https://github.com/aliceribeiro/notes) - Plataforma para gerenciamento de anotações pessoais.
 
 ## Meus Valores
 🧠 Desenvolvimento atencioso <br/>
@@ -44,7 +46,7 @@ Sou **desenvolvedora Front-End**, apaixonada por criar experiências interativas
 </div>
 
 ## Me encontre também em:
-- [Linkedin](https://www.linkedin.com/in/aliceribeiroo/) <br/>
+- [LinkedIn](https://www.linkedin.com/in/aliceribeiroo/) <br/>
 - [Dribbble](https://www.dribbble.com/aliceribeiro) <br/>
 - [CodePen](https://codepen.io/aliceribeiro) <br/>
 - [dev.to](https://dev.to/aliceribeiro) <br/>    
